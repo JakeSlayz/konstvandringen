@@ -1,0 +1,15 @@
+/**
+ * Place your custom styles here.
+ */
+
+
+
+
+body {    
+    background-image: url(001.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.navbar {
+    background-color: rgba(0, 0, 0, 0);
+}
